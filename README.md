@@ -110,10 +110,10 @@ I use GitHub to document my projects, experiment with new technologies, and buil
 
 ### Connect With Me
 
-* 💼 LinkedIn: [LinkedIn Profile](#)
-* 📧 Email: [youssef.hussein.business@gmail.com](mailto:youssef.hussein.business@gmail.com)
-* ▶️ YouTube: [YouTube Channel](#)
-* ✍️ Medium: [Medium Profile](#)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/youssef-hussein-aa3b38277/)
+- 📧 Email: youssef.hussein.business@gmail.com
+- ▶️ YouTube: [YouTube](https://www.youtube.com/@VectorDevTube)
+- ✍️ Medium: [Medium](https://medium.com/@Youssef.Hussein)
 
 ---
 
